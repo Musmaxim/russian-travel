@@ -1,0 +1,16 @@
+.place__link_part-href {
+    color: #ffffff;
+    font-size: 18px;
+    line-height: 22px;
+    opacity: 1;
+}
+
+.place__link_part-href:hover {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 767px) {
+    .place__link_part-href {
+        margin-left: 16px;
+    }
+}

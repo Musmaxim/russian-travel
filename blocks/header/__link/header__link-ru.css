@@ -1,0 +1,13 @@
+.header__link-ru {
+    line-height: 30px;
+    font-size: 28px;
+    margin-right: 18px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 767px) {
+    .header__link-ru {
+        line-height: 22px;
+        font-size: 20px;
+    }
+}

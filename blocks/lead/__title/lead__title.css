@@ -1,0 +1,41 @@
+.lead__title {
+    margin-left: 132px;
+    margin-right: 132px;
+    max-width: 720px;
+    width: 100%;
+    max-height: 200px;
+    font-size: 96px;
+    margin-top: 56px;
+    margin-bottom: 0;
+    text-align: center;
+    color: #ffffff;
+    padding: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead__title {
+        margin-left: 104px;
+        margin-right: 104px;
+        margin-top: 48px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__title {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 48px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__title {
+        margin-left: 16px;
+        margin-right: 16px;
+        max-width: 288px;
+        width: 100%;
+        max-height: 88px;
+        font-size: 40px;
+        margin-top: 48px;
+    }
+}

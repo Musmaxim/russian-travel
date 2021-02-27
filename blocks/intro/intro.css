@@ -1,0 +1,6 @@
+    .intro {
+        display: flex;
+        position: relative;
+        flex-direction: column;
+        font-family: 'Inter', Arial, sans-serif;
+    }

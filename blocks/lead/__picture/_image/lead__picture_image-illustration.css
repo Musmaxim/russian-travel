@@ -1,0 +1,31 @@
+.lead__picture_image-illustration {
+    height: 615px;
+    width: 984px;
+    margin-left: auto;
+    margin-left: auto;
+    text-align: center;
+    z-index: -1;
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead__picture_image-illustration {
+        height: 580px;
+        width: 928px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__picture_image-illustration {
+        height: 480px;
+        width: 768px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__picture_image-illustration {
+        height: 200px;
+        width: 320px;
+    }
+}

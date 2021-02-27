@@ -1,0 +1,35 @@
+.lead__picture_image-path {
+    position: absolute;
+    left: 41.5px;
+    bottom: 261.8px;
+    z-index: 1;
+    width: 937.09px;
+    height: 262.99px;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead__picture_image-path {
+        left: 39.14px;
+        bottom: 246.9px;
+        width: 883.76px;
+        height: 248.02px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .lead__picture_image-path {
+        left: 32.39px;
+        bottom: 204.33px;
+        width: 731.38px;
+        height: 205.26px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead__picture_image-path {
+        left: 13.5px;
+        bottom: 85.14px;
+        width: 304.74px;
+        height: 85.53px;
+    }
+}

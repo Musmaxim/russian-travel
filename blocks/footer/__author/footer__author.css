@@ -1,0 +1,16 @@
+.footer__author {
+    max-width: 186px;
+    width: 100%;
+    max-height: 16px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__author {
+        margin-top: 16px;
+    }
+}
