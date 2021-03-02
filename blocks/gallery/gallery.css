@@ -18,7 +18,7 @@
 @media screen and (max-width: 1023px) {
     .gallery {
         grid-template-columns: 352px 352px;
-        grid-template-rows: 254px 254px 254px 254px 254px;
+        grid-template-rows: 254px 254px 254px 254px 254px 254px;
         gap: 14px;
         margin-top: 88px;
         margin-left: 24px;

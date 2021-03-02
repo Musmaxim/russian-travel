@@ -1,0 +1,23 @@
+.lang {
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-left: 18px;
+    padding: 0;
+    width: 100%;
+    opacity: 1;
+}
+
+.lang:hover {
+    opacity: 0.5;
+}
+
+@media screen and (max-width: 767px) {
+    .lang {
+        line-height: 22px;
+        font-size: 20px;
+    }
+}

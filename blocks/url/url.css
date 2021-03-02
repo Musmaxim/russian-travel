@@ -1,0 +1,14 @@
+.url {
+    font-style: normal;
+    font-weight: normal;
+    color: #AAAAAA;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+@media screen and (max-width: 767px) {
+    .url {
+        width: 288px;
+        margin-left: 16px;
+    }
+}
