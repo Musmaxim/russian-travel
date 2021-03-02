@@ -4,7 +4,10 @@
     color: #ffffff;
     font-size: 18px;
     line-height: 29px;
-    margin: -18px;
+}
+
+element.style {
+    margin: 0;
 }
 
 @media screen and (max-width: 1279px) {
