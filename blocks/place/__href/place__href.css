@@ -1,4 +1,4 @@
-.href {
+.place__href {
     font-style: normal;
     font-weight: normal;
     color: #ffffff;
@@ -7,12 +7,12 @@
     opacity: 1;
 }
 
-.href:hover {
+.place__href:hover {
     opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
-    .href {
+    .place__href {
         margin-left: 16px;
     }
 }

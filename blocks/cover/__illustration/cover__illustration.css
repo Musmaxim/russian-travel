@@ -36,7 +36,6 @@
     .cover__illustration {
         min-height: 640px;
         width: 1024px;
-        background-size: 100%;
     }
 }
 
@@ -44,7 +43,6 @@
     .cover__illustration {
         min-height: 480px;
         width: 768px;
-        background-size: 100%;
     }
 }
 
@@ -52,8 +50,5 @@
     .cover__illustration {
         min-height: 200px;
         width: 320px;
-        background-size: 100%;
-        position: absolute;
-        left: 0;
     }
 }
