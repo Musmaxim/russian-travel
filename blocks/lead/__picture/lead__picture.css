@@ -1,8 +1,7 @@
 .lead__picture {
     position: relative;
     width: 984px;
-    margin: 0;
-    margin-left: auto;
+    margin: auto;
     margin-top: 64px;
     box-sizing: border-box;
     background-size: cover;

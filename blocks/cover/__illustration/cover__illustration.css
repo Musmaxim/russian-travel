@@ -7,13 +7,13 @@
     min-height: 740px;
     width: 1184px;
     object-fit: cover;
-    background-size: 100%;
     position: relative;
     top: 0;
     bottom: 0;
     box-sizing: border-box;
     text-decoration: none;
     z-index: 1;
+    background-size: cover;
 }
 
 .cover__illustration:before {
