@@ -10,7 +10,6 @@
     text-transform: uppercase;
     text-align: left;
     align-self: flex-start;
-    border: 1px red dashed;
 }
 
 @media screen and (max-width: 1279px) {
